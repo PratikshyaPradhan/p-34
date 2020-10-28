@@ -53,7 +53,7 @@ function draw() {
 
       if(keyCode == 114){
         foodS = 20;
-        gameState === "play";
+        gameState = "play";
       }
     }
 
